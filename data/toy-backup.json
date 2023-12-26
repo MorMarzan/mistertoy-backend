@@ -4,7 +4,8 @@
         "name": "Talking Doll",
         "price": 123,
         "labels": [
-            "Doll"
+            "Doll",
+            "Baby"
         ],
         "createdAt": 1631031801011,
         "inStock": true
@@ -14,7 +15,8 @@
         "name": "Puzzle Game",
         "price": 56,
         "labels": [
-            "Puzzle"
+            "Puzzle",
+            "Box game"
         ],
         "createdAt": 1631031801011,
         "inStock": false
@@ -44,7 +46,9 @@
         "name": "Outdoor Adventure Kit",
         "price": 175,
         "labels": [
-            "Outdoor"
+            "Outdoor",
+            "Battery Powered",
+            "On wheels"
         ],
         "createdAt": 1631031801011,
         "inStock": true
@@ -54,7 +58,8 @@
         "name": "Battery-Powered Robot",
         "price": 198,
         "labels": [
-            "Battery Powered"
+            "Battery Powered",
+            "Doll"
         ],
         "createdAt": 1631031801011,
         "inStock": false

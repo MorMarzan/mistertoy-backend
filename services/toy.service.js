@@ -12,7 +12,7 @@ export const toyService = {
 
 const toys = utilService.readJsonFile('data/toy.json')
 
-function query(filterBy = { name: '', maxPrice: 0, inStock: undefined, labels: '' }, sortBy = { type: '', dir: 1 }) {
+function query(filterBy = { name: '', maxPrice: 0, inStock: undefined, labels: [] }, sortBy = { type: '', dir: 1 }) {
     let toysToReturn = toys
     if (filterBy.name) {
         const regExp = new RegExp(filterBy.name, 'i')
@@ -24,8 +24,9 @@ function query(filterBy = { name: '', maxPrice: 0, inStock: undefined, labels: '
     if (filterBy.maxPrice) {
         toysToReturn = toysToReturn.filter(toy => toy.price <= filterBy.maxPrice)
     }
-    if (filterBy.labels) {
-        toysToReturn = toysToReturn.filter(toy => toy.labels.includes(filterBy.labels))
+    if (filterBy.labels.length) {
+        toysToReturn = toysToReturn.filter(toy => toy.labels.some(label => filterBy.labels.includes(label)))
+        // toysToReturn = toysToReturn.filter(toy => toy.labels.includes(filterBy.labels))
     }
     if (sortBy.type === 'price') { //numeric
         toysToReturn.sort((b1, b2) => (b1.price - b2.price) * sortBy.dir)
@@ -42,7 +43,10 @@ function query(filterBy = { name: '', maxPrice: 0, inStock: undefined, labels: '
 
 function getById(toyId) {
     const toy = toys.find(toy => toy._id === toyId)
-    return Promise.resolve(toy)
+    if (!toy) return Promise.reject({ msgs: ['Toy not found'] })
+    // if (!toy) return Promise.reject('No Such Toy')
+    return Promise.resolve({ ...toy, msgs: ['Dummy Message 1', 'Dummy Message 2'] })
+    // return Promise.resolve(toy)
 }
 
 function remove(toyId) {

@@ -3,3 +3,17 @@
 25.12.2023, 21:51:15 - INFO - Server listening on port http://127.0.0.1:3030/
 25.12.2023, 22:02:38 - INFO - Server listening on port http://127.0.0.1:3030/
 25.12.2023, 22:06:04 - INFO - Toy t107 removed
+25.12.2023, 23:39:50 - INFO - Server listening on port http://127.0.0.1:3030/
+25.12.2023, 23:39:56 - ERROR - Cannot get toy | No Such Toy
+25.12.2023, 23:45:26 - INFO - Server listening on port http://127.0.0.1:3030/
+25.12.2023, 23:45:28 - ERROR - Cannot get toy | {"msgs":["Toy not found"]}
+25.12.2023, 23:47:26 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 1:49:39 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 1:50:06 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 1:50:55 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 1:52:09 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 1:54:15 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 1:54:57 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 2:05:36 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 2:08:10 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 2:08:19 - INFO - Server listening on port http://127.0.0.1:3030/
