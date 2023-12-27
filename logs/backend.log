@@ -20,3 +20,4 @@
 26.12.2023, 14:36:47 - INFO - Server listening on port http://127.0.0.1:3030/
 26.12.2023, 14:42:27 - ERROR - Cannot get toy | {"msgs":["Toy not found"]}
 27.12.2023, 1:12:51 - INFO - Server listening on port http://127.0.0.1:3030/
+27.12.2023, 22:58:25 - INFO - Server listening on port http://127.0.0.1:3030/

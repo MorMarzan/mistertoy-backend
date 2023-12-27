@@ -1,13 +1,23 @@
 [
     {
-        "_id": "t101",
-        "name": "Talking Doll",
-        "price": 123,
+        "_id": "t104",
+        "name": "Baby Rattle",
+        "price": 30,
         "labels": [
             "Baby"
         ],
         "createdAt": 1631031801011,
-        "inStock": true
+        "inStock": false
+    },
+    {
+        "_id": "t107",
+        "name": "Rolling Puzzle Box",
+        "price": 42,
+        "labels": [
+            "Box game"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": false
     },
     {
         "_id": "t102",
@@ -31,14 +41,14 @@
         "inStock": true
     },
     {
-        "_id": "t104",
-        "name": "Baby Rattle",
-        "price": 30,
+        "_id": "t101",
+        "name": "Talking Doll",
+        "price": 123,
         "labels": [
             "Baby"
         ],
         "createdAt": 1631031801011,
-        "inStock": false
+        "inStock": true
     },
     {
         "_id": "t105",
@@ -62,16 +72,6 @@
         ],
         "createdAt": 1631031801011,
         "inStock": false
-    },
-    {
-        "_id": "t107",
-        "name": "Rolling Puzzle Box",
-        "price": 42,
-        "labels": [
-            "Box game"
-        ],
-        "createdAt": 1631031801011,
-        "inStock": true
     },
     {
         "name": "Super new toy",
