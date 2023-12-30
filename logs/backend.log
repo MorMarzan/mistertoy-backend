@@ -273,3 +273,51 @@
 30.12.2023, 21:28:45 - ERROR - cannot add toy msg 658ddf055112b2ef0a5a857d77 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
 30.12.2023, 21:32:52 - INFO - server.js loaded... 
 30.12.2023, 21:32:52 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 21:34:51 - INFO - Req was made | / 
+30.12.2023, 21:34:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:34:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:34:51 - INFO - Req was made | / 
+30.12.2023, 21:34:51 - INFO - Req was made | / 
+30.12.2023, 21:34:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:54:15 - INFO - Req was made | / 
+30.12.2023, 21:54:15 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:54:15 - INFO - Req was made | / 
+30.12.2023, 21:54:15 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:54:15 - INFO - Req was made | / 
+30.12.2023, 21:54:15 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:54:21 - INFO - Req was made | / 
+30.12.2023, 21:54:21 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:54:21 - INFO - Req was made | / 
+30.12.2023, 21:54:21 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:54:21 - INFO - Req was made | / 
+30.12.2023, 21:54:21 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:54:25 - INFO - Req was made | / 
+30.12.2023, 21:54:25 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:54:25 - INFO - Req was made | / 
+30.12.2023, 21:54:25 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:54:26 - INFO - Req was made | / 
+30.12.2023, 21:54:26 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:00:34 - INFO - server.js loaded... 
+30.12.2023, 22:00:34 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 22:01:34 - INFO - Req was made | / 
+30.12.2023, 22:01:34 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:01:51 - INFO - Req was made | / 
+30.12.2023, 22:01:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:01:59 - INFO - Req was made | / 
+30.12.2023, 22:01:59 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:11:14 - INFO - Req was made | / 
+30.12.2023, 22:11:14 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:11:45 - INFO - Req was made | / 
+30.12.2023, 22:11:45 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:14:21 - INFO - Req was made | / 
+30.12.2023, 22:14:21 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:25:10 - INFO - Req was made | / 
+30.12.2023, 22:25:10 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:30:12 - INFO - server.js loaded... 
+30.12.2023, 22:30:12 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 22:30:16 - INFO - Req was made | / 
+30.12.2023, 22:30:16 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:30:16 - INFO - Req was made | / 
+30.12.2023, 22:30:16 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 22:30:16 - INFO - Req was made | / 
+30.12.2023, 22:30:16 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
