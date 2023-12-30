@@ -936,3 +936,87 @@
 30.12.2023, 14:49:48 - DEBUG - Getting Toys | {"name":"","maxPrice":1,"labels":["Baby","Puzzle","Doll"]} | {"type":"price","dir":"-1"} 
 30.12.2023, 14:49:50 - INFO - Req was made | / 
 30.12.2023, 14:49:50 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":["Baby","Puzzle","Doll"]} | {"type":"price","dir":"-1"} 
+30.12.2023, 15:13:38 - INFO - server.js loaded... 
+30.12.2023, 15:13:38 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 15:13:56 - INFO - Req was made | / 
+30.12.2023, 15:13:56 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:13:56 - INFO - Req was made | / 
+30.12.2023, 15:13:56 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:13:57 - INFO - Req was made | / 
+30.12.2023, 15:13:57 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:05 - INFO - Req was made | / 
+30.12.2023, 15:14:05 - DEBUG - Getting Toys | {"name":"p","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:10 - INFO - Req was made | / 
+30.12.2023, 15:14:10 - DEBUG - Getting Toys | {"name":"p","maxPrice":null,"labels":[],"inStock":true} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:14 - INFO - Req was made | / 
+30.12.2023, 15:14:14 - DEBUG - Getting Toys | {"name":"p","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:18 - INFO - Req was made | / 
+30.12.2023, 15:14:18 - DEBUG - Getting Toys | {"name":"p","maxPrice":100,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:20 - INFO - Req was made | / 
+30.12.2023, 15:14:20 - DEBUG - Getting Toys | {"name":"p","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:24 - INFO - Req was made | / 
+30.12.2023, 15:14:24 - DEBUG - Getting Toys | {"name":"p","maxPrice":2,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:28 - INFO - Req was made | / 
+30.12.2023, 15:14:28 - DEBUG - Getting Toys | {"name":"p","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:33 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:33 - INFO - Req was made | / 
+30.12.2023, 15:14:35 - INFO - Req was made | / 
+30.12.2023, 15:14:35 - DEBUG - Getting Toys | {"name":"","maxPrice":2,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:39 - INFO - Req was made | / 
+30.12.2023, 15:14:39 - DEBUG - Getting Toys | {"name":"","maxPrice":2,"labels":["Box game"]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:45 - INFO - Req was made | / 
+30.12.2023, 15:14:45 - DEBUG - Getting Toys | {"name":"","maxPrice":2,"labels":["Box game"]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:45 - INFO - Req was made | / 
+30.12.2023, 15:14:45 - DEBUG - Getting Toys | {"name":"","maxPrice":2,"labels":["Box game"]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:45 - INFO - Req was made | / 
+30.12.2023, 15:14:45 - DEBUG - Getting Toys | {"name":"","maxPrice":2,"labels":["Box game"]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:48 - INFO - Req was made | / 
+30.12.2023, 15:14:48 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":["Box game"]} | {"type":"","dir":"1"} 
+30.12.2023, 15:14:51 - INFO - Req was made | / 
+30.12.2023, 15:14:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":["Box game"]} | {"type":"price","dir":"1"} 
+30.12.2023, 15:14:53 - INFO - Req was made | / 
+30.12.2023, 15:14:53 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":["Box game"]} | {"type":"price","dir":"-1"} 
+30.12.2023, 15:14:54 - INFO - Req was made | / 
+30.12.2023, 15:14:54 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":["Box game"]} | {"type":"price","dir":"1"} 
+30.12.2023, 15:14:55 - INFO - Req was made | / 
+30.12.2023, 15:14:55 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":["Box game"]} | {"type":"price","dir":"-1"} 
+30.12.2023, 15:14:57 - INFO - Req was made | / 
+30.12.2023, 15:14:57 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":["Box game"]} | {"type":"price","dir":"1"} 
+30.12.2023, 15:16:35 - INFO - server.js loaded... 
+30.12.2023, 15:16:35 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 15:16:40 - INFO - Req was made | / 
+30.12.2023, 15:16:40 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:16:40 - INFO - Req was made | / 
+30.12.2023, 15:16:40 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:16:41 - INFO - Req was made | / 
+30.12.2023, 15:16:41 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:26:52 - INFO - Req was made | / 
+30.12.2023, 15:26:52 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:26:52 - INFO - Req was made | / 
+30.12.2023, 15:26:52 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:26:53 - INFO - Req was made | / 
+30.12.2023, 15:26:53 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:32:23 - INFO - Req was made | / 
+30.12.2023, 15:32:23 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:32:23 - INFO - Req was made | / 
+30.12.2023, 15:32:23 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:32:23 - INFO - Req was made | / 
+30.12.2023, 15:32:23 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:48:26 - INFO - Req was made | / 
+30.12.2023, 15:48:26 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:48:26 - INFO - Req was made | / 
+30.12.2023, 15:48:26 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 15:48:26 - INFO - Req was made | / 
+30.12.2023, 15:48:26 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 16:15:05 - INFO - server.js loaded... 
+30.12.2023, 16:15:05 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 16:15:13 - INFO - server.js loaded... 
+30.12.2023, 16:15:13 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 16:20:50 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+30.12.2023, 16:20:50 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+30.12.2023, 16:22:51 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+30.12.2023, 16:22:51 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+30.12.2023, 16:23:43 - INFO - server.js loaded... 
+30.12.2023, 16:23:43 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 16:28:02 - INFO - server.js loaded... 
+30.12.2023, 16:28:02 - INFO - Server listening on port http://127.0.0.1:3030/ 
