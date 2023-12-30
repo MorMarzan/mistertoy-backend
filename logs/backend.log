@@ -173,3 +173,103 @@
 30.12.2023, 19:39:38 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
 30.12.2023, 19:39:39 - INFO - Req was made | / 
 30.12.2023, 19:39:39 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 19:52:39 - INFO - Req was made | / 
+30.12.2023, 19:52:39 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 19:52:39 - INFO - Req was made | / 
+30.12.2023, 19:52:39 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 19:52:40 - INFO - Req was made | / 
+30.12.2023, 19:52:40 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 19:54:33 - INFO - Req was made | / 
+30.12.2023, 19:54:33 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 19:54:52 - DEBUG - auth.service - login with username: muki 
+30.12.2023, 19:54:52 - INFO - User login:  | {"_id":"659051068db353d0a1f97f4e","username":"muki","fullname":"Muki Cohen","isAdmin":false,"score":0} 
+30.12.2023, 19:54:55 - INFO - Req was made | / 
+30.12.2023, 19:54:55 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 19:54:55 - INFO - Req was made | / 
+30.12.2023, 19:54:55 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 19:54:56 - INFO - Req was made | / 
+30.12.2023, 19:54:56 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 19:55:00 - INFO - Req was made | / 
+30.12.2023, 19:55:00 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 19:55:42 - INFO - Req was made | / 
+30.12.2023, 19:55:42 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:10:02 - INFO - Req was made | / 
+30.12.2023, 20:10:02 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:10:05 - INFO - Req was made | / 
+30.12.2023, 20:10:05 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:10:05 - INFO - Req was made | / 
+30.12.2023, 20:10:05 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:10:05 - INFO - Req was made | / 
+30.12.2023, 20:10:05 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:10:16 - DEBUG - auth.service - login with username: muki 
+30.12.2023, 20:10:16 - INFO - User login:  | {"_id":"659051068db353d0a1f97f4e","username":"muki","fullname":"Muki Cohen","isAdmin":false,"score":0} 
+30.12.2023, 20:25:07 - INFO - Req was made | / 
+30.12.2023, 20:25:07 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:25:07 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:25:07 - INFO - Req was made | / 
+30.12.2023, 20:25:07 - INFO - Req was made | / 
+30.12.2023, 20:25:07 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:26:42 - INFO - Req was made | / 
+30.12.2023, 20:26:42 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:26:45 - INFO - Req was made | / 
+30.12.2023, 20:26:45 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:26:45 - INFO - Req was made | / 
+30.12.2023, 20:26:45 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:26:45 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 20:26:45 - INFO - Req was made | / 
+30.12.2023, 20:26:56 - DEBUG - auth.service - login with username: muki 
+30.12.2023, 20:26:56 - INFO - User login:  | {"_id":"659051068db353d0a1f97f4e","username":"muki","fullname":"Muki Cohen","isAdmin":false,"score":0} 
+30.12.2023, 21:02:50 - DEBUG - auth.service - login with username: muki 
+30.12.2023, 21:02:50 - INFO - User login:  | {"_id":"659051068db353d0a1f97f4e","username":"muki","fullname":"Muki Cohen","isAdmin":false,"score":0} 
+30.12.2023, 21:03:30 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:03:30 - INFO - Req was made | / 
+30.12.2023, 21:03:30 - INFO - Req was made | / 
+30.12.2023, 21:03:30 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:03:30 - INFO - Req was made | / 
+30.12.2023, 21:03:30 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:05:04 - INFO - Req was made | / 
+30.12.2023, 21:05:04 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:07:42 - DEBUG - auth.service - login with username: muki 
+30.12.2023, 21:07:42 - INFO - User login:  | {"_id":"659051068db353d0a1f97f4e","username":"muki","fullname":"Muki Cohen","isAdmin":false,"score":0} 
+30.12.2023, 21:07:46 - INFO - Req was made | / 
+30.12.2023, 21:07:46 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:07:46 - INFO - Req was made | / 
+30.12.2023, 21:07:46 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:07:46 - INFO - Req was made | / 
+30.12.2023, 21:07:46 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:07:58 - DEBUG - auth.service - login with username: dev 
+30.12.2023, 21:07:58 - INFO - User login:  | {"_id":"65903993e7d3762f61582464","username":"dev","fullname":"Dev dav","isAdmin":true,"score":0} 
+30.12.2023, 21:08:02 - INFO - Req was made | / 
+30.12.2023, 21:08:02 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:08:02 - INFO - Req was made | / 
+30.12.2023, 21:08:02 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:08:03 - INFO - Req was made | / 
+30.12.2023, 21:08:03 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:12:51 - INFO - Req was made | / 
+30.12.2023, 21:12:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:13:41 - INFO - Req was made | / 
+30.12.2023, 21:13:41 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:16:51 - INFO - Req was made | / 
+30.12.2023, 21:16:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:16:51 - INFO - Req was made | / 
+30.12.2023, 21:16:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:16:51 - INFO - Req was made | / 
+30.12.2023, 21:16:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+30.12.2023, 21:22:33 - INFO - server.js loaded... 
+30.12.2023, 21:22:33 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 21:23:03 - INFO - server.js loaded... 
+30.12.2023, 21:23:03 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 21:23:42 - INFO - server.js loaded... 
+30.12.2023, 21:23:42 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 21:24:04 - DEBUG - auth.service - login with username: dev 
+30.12.2023, 21:24:04 - INFO - User login:  | {"_id":"65903993e7d3762f61582464","username":"dev","fullname":"Dev dav","isAdmin":true,"score":0} 
+30.12.2023, 21:25:00 - ERROR - cannot add toy msg 658ddf055112b2ef0a5a857d77 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+30.12.2023, 21:25:00 - ERROR - Failed to update toy | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+30.12.2023, 21:28:23 - INFO - server.js loaded... 
+30.12.2023, 21:28:23 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 21:28:41 - INFO - server.js loaded... 
+30.12.2023, 21:28:41 - INFO - Server listening on port http://127.0.0.1:3030/ 
+30.12.2023, 21:28:45 - ERROR - Failed to update toy | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+30.12.2023, 21:28:45 - ERROR - cannot add toy msg 658ddf055112b2ef0a5a857d77 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+30.12.2023, 21:32:52 - INFO - server.js loaded... 
+30.12.2023, 21:32:52 - INFO - Server listening on port http://127.0.0.1:3030/ 
