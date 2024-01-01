@@ -857,3 +857,127 @@
 1.1.2024, 14:17:15 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
 1.1.2024, 14:17:15 - INFO - Req was made | / 
 1.1.2024, 14:17:15 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:42:17 - INFO - Req was made | / 
+1.1.2024, 14:42:17 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:42:17 - INFO - Req was made | / 
+1.1.2024, 14:42:17 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:42:19 - INFO - Req was made | / 
+1.1.2024, 14:42:19 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:58:55 - INFO - server.js loaded... 
+1.1.2024, 14:58:55 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:04:18 - INFO - server.js loaded... 
+1.1.2024, 15:04:18 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:04:20 - INFO - Req was made | / 
+1.1.2024, 15:04:20 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:04:22 - INFO - Req was made | / 
+1.1.2024, 15:04:22 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:04:22 - INFO - Req was made | / 
+1.1.2024, 15:04:22 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:05:20 - INFO - server.js loaded... 
+1.1.2024, 15:05:20 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:08:03 - INFO - server.js loaded... 
+1.1.2024, 15:08:03 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:08:05 - INFO - server.js loaded... 
+1.1.2024, 15:08:05 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:08:36 - INFO - server.js loaded... 
+1.1.2024, 15:08:36 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:08:39 - INFO - Req was made | / 
+1.1.2024, 15:08:39 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:08:40 - INFO - Req was made | / 
+1.1.2024, 15:08:40 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:08:41 - INFO - Req was made | / 
+1.1.2024, 15:08:41 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:11:54 - INFO - server.js loaded... 
+1.1.2024, 15:11:54 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:12:02 - INFO - Req was made | / 
+1.1.2024, 15:12:02 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:12:03 - INFO - Req was made | / 
+1.1.2024, 15:12:03 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:12:03 - INFO - Req was made | / 
+1.1.2024, 15:12:03 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:12:21 - INFO - server.js loaded... 
+1.1.2024, 15:12:21 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:12:32 - INFO - Req was made | / 
+1.1.2024, 15:12:32 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:12:33 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:12:33 - INFO - Req was made | / 
+1.1.2024, 15:12:33 - INFO - Req was made | / 
+1.1.2024, 15:12:33 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 15:13:18 - INFO - server.js loaded... 
+1.1.2024, 15:13:18 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:13:22 - INFO - server.js loaded... 
+1.1.2024, 15:13:22 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:13:25 - INFO - Req was made | / 
+1.1.2024, 15:13:26 - INFO - Req was made | / 
+1.1.2024, 15:13:26 - INFO - Req was made | / 
+1.1.2024, 15:20:58 - INFO - server.js loaded... 
+1.1.2024, 15:20:58 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:32:11 - INFO - Req was made | / 
+1.1.2024, 15:36:59 - INFO - server.js loaded... 
+1.1.2024, 15:36:59 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:37:04 - INFO - Req was made | / 
+1.1.2024, 15:37:05 - ERROR - cannot find reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.1.2024, 15:37:05 - ERROR - Cannot get reviews | TypeError: Cannot read properties of undefined (reading '_id') 
+1.1.2024, 15:39:11 - INFO - server.js loaded... 
+1.1.2024, 15:39:11 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:39:33 - INFO - server.js loaded... 
+1.1.2024, 15:39:33 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:39:39 - INFO - Req was made | / 
+1.1.2024, 15:39:59 - INFO - server.js loaded... 
+1.1.2024, 15:39:59 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:40:03 - INFO - Req was made | / 
+1.1.2024, 15:40:47 - INFO - server.js loaded... 
+1.1.2024, 15:40:47 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:41:10 - INFO - server.js loaded... 
+1.1.2024, 15:41:10 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:52:28 - INFO - server.js loaded... 
+1.1.2024, 15:52:28 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:52:35 - INFO - Req was made | / 
+1.1.2024, 15:56:14 - INFO - server.js loaded... 
+1.1.2024, 15:56:14 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:56:52 - INFO - server.js loaded... 
+1.1.2024, 15:56:52 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 15:56:56 - INFO - Req was made | / 
+1.1.2024, 16:01:20 - INFO - server.js loaded... 
+1.1.2024, 16:01:20 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:01:34 - INFO - Req was made | / 
+1.1.2024, 16:01:35 - ERROR - cannot find reviews | MongoServerError: Expected 'pipeline' to be BSON docs (or equivalent), but got primitive.A instead. Doc = [{aggregate review} {pipeline [[{$match []}] <nil> [{$addFields [{convertedUserId [{$toObjectId $userId}]}]}] [{$lookup [{localField convertedUserId} {from user} {foreignField _id} {as byUser}]}] [{$unwind $byUser}]]} {cursor []} {lsid [{id {4 [98 115 223 68 145 173 68 102 190 67 96 64 213 190 229 119]}}]} {$clusterTime [{clusterTime {1704117695 8}} {signature [{hash {0 [40 0 187 36 246 249 34 250 79 230 248 8 234 10 113 43 168 76 4 196]}} {keyId 7286495288489934850}]}]} {$db toy_db}] 
+1.1.2024, 16:01:35 - ERROR - Cannot get reviews | MongoServerError: Expected 'pipeline' to be BSON docs (or equivalent), but got primitive.A instead. Doc = [{aggregate review} {pipeline [[{$match []}] <nil> [{$addFields [{convertedUserId [{$toObjectId $userId}]}]}] [{$lookup [{localField convertedUserId} {from user} {foreignField _id} {as byUser}]}] [{$unwind $byUser}]]} {cursor []} {lsid [{id {4 [98 115 223 68 145 173 68 102 190 67 96 64 213 190 229 119]}}]} {$clusterTime [{clusterTime {1704117695 8}} {signature [{hash {0 [40 0 187 36 246 249 34 250 79 230 248 8 234 10 113 43 168 76 4 196]}} {keyId 7286495288489934850}]}]} {$db toy_db}] 
+1.1.2024, 16:04:49 - INFO - server.js loaded... 
+1.1.2024, 16:04:49 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:04:52 - INFO - server.js loaded... 
+1.1.2024, 16:04:52 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:04:58 - INFO - Req was made | / 
+1.1.2024, 16:06:50 - INFO - server.js loaded... 
+1.1.2024, 16:06:50 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:06:58 - INFO - Req was made | / 
+1.1.2024, 16:13:16 - INFO - server.js loaded... 
+1.1.2024, 16:13:16 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:13:20 - INFO - Req was made | / 
+1.1.2024, 16:13:34 - INFO - server.js loaded... 
+1.1.2024, 16:13:34 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:13:37 - INFO - Req was made | / 
+1.1.2024, 16:20:16 - INFO - server.js loaded... 
+1.1.2024, 16:20:16 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:20:22 - INFO - Req was made | / 
+1.1.2024, 16:22:31 - INFO - server.js loaded... 
+1.1.2024, 16:22:31 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:22:39 - INFO - Req was made | / 
+1.1.2024, 16:23:05 - INFO - server.js loaded... 
+1.1.2024, 16:23:05 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:23:08 - INFO - Req was made | / 
+1.1.2024, 16:23:36 - INFO - server.js loaded... 
+1.1.2024, 16:23:36 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:23:39 - INFO - Req was made | / 
+1.1.2024, 16:26:35 - INFO - server.js loaded... 
+1.1.2024, 16:26:35 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:26:38 - INFO - Req was made | / 
+1.1.2024, 16:27:26 - INFO - server.js loaded... 
+1.1.2024, 16:27:26 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:27:28 - INFO - Req was made | / 
+1.1.2024, 16:28:00 - INFO - server.js loaded... 
+1.1.2024, 16:28:00 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:28:02 - INFO - Req was made | / 
+1.1.2024, 16:28:16 - INFO - server.js loaded... 
+1.1.2024, 16:28:16 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 16:28:18 - INFO - Req was made | / 

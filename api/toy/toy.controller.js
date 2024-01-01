@@ -14,7 +14,7 @@ export async function getToys(req, res) {
             type: req.query.type || '',
             dir: req.query.dir || 1
         }
-        logger.debug('Getting Toys', filterBy, sortBy)
+        // logger.debug('Getting Toys', filterBy, sortBy)
         const toys = await toyService.query(filterBy, sortBy)
         res.json(toys)
     } catch (err) {

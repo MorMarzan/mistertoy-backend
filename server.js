@@ -39,6 +39,9 @@ app.use('/api/auth', authRoutes)
 import { userRoutes } from './api/user/user.routes.js'
 app.use('/api/user', userRoutes)
 
+import { reviewRoutes } from './api/review/review.routes.js'
+app.use('/api/review', reviewRoutes)
+
 import { toyRoutes } from './api/toy/toy.routes.js'
 app.use('/api/toy', toyRoutes)
 
