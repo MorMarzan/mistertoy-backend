@@ -688,3 +688,164 @@
 31.12.2023, 23:20:59 - INFO - Server listening on port http://127.0.0.1:3030/ 
 31.12.2023, 23:21:48 - INFO - server.js loaded... 
 31.12.2023, 23:21:48 - INFO - Server listening on port http://127.0.0.1:3030/ 
+31.12.2023, 23:22:17 - INFO - Req was made | / 
+31.12.2023, 23:22:17 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+31.12.2023, 23:22:17 - INFO - Req was made | / 
+31.12.2023, 23:22:17 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+31.12.2023, 23:22:18 - INFO - Req was made | / 
+31.12.2023, 23:22:18 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+31.12.2023, 23:23:40 - INFO - Req was made | / 
+31.12.2023, 23:23:40 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+31.12.2023, 23:23:40 - INFO - Req was made | / 
+31.12.2023, 23:23:40 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+31.12.2023, 23:23:40 - INFO - Req was made | / 
+31.12.2023, 23:23:40 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 9:24:25 - INFO - Req was made | / 
+1.1.2024, 9:24:25 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 9:24:25 - INFO - Req was made | / 
+1.1.2024, 9:24:25 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 9:24:26 - INFO - Req was made | / 
+1.1.2024, 9:24:26 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 9:50:28 - INFO - server.js loaded... 
+1.1.2024, 9:50:28 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 11:18:36 - INFO - server.js loaded... 
+1.1.2024, 11:18:36 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 12:46:49 - INFO - server.js loaded... 
+1.1.2024, 12:46:49 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 12:50:58 - INFO - Req was made | / 
+1.1.2024, 12:50:58 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:50:58 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:50:58 - INFO - Req was made | / 
+1.1.2024, 12:50:58 - INFO - Req was made | / 
+1.1.2024, 12:50:58 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:56:35 - INFO - server.js loaded... 
+1.1.2024, 12:56:36 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 12:56:43 - INFO - Req was made | / 
+1.1.2024, 12:56:43 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:56:44 - INFO - Req was made | / 
+1.1.2024, 12:56:44 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:56:45 - INFO - Req was made | / 
+1.1.2024, 12:56:45 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:58:42 - INFO - Req was made | / 
+1.1.2024, 12:58:42 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:58:42 - INFO - Req was made | / 
+1.1.2024, 12:58:42 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:58:43 - INFO - Req was made | / 
+1.1.2024, 12:58:43 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:58:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:58:51 - INFO - Req was made | / 
+1.1.2024, 12:58:51 - INFO - Req was made | / 
+1.1.2024, 12:58:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:58:51 - INFO - Req was made | / 
+1.1.2024, 12:58:51 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 12:58:59 - DEBUG - auth.service - login with username: dev 
+1.1.2024, 12:58:59 - ERROR - Failed to Login Error: Invalid username or password 
+1.1.2024, 12:59:03 - DEBUG - auth.service - login with username: dev 
+1.1.2024, 12:59:03 - ERROR - Failed to Login Error: Invalid username or password 
+1.1.2024, 13:02:19 - DEBUG - auth.service - signup with username: dev, fullname: Dev dav 
+1.1.2024, 13:02:19 - DEBUG - auth.route - new account created: {"username":"dev","password":"$2b$10$E/zWQmc0dRdbwEQSe5jCeeSIHAQzyEwLbsMwXroBO8J10Ym10A7JK","fullname":"Dev dav","isAdmin":false,"score":0,"_id":"65929bbb1a92dca186f8cac3"} 
+1.1.2024, 13:02:19 - DEBUG - auth.service - login with username: dev 
+1.1.2024, 13:03:09 - INFO - Req was made | / 
+1.1.2024, 13:03:09 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:09 - INFO - Req was made | / 
+1.1.2024, 13:03:09 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:09 - INFO - Req was made | / 
+1.1.2024, 13:03:09 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:12 - INFO - Req was made | / 
+1.1.2024, 13:03:12 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:12 - INFO - Req was made | / 
+1.1.2024, 13:03:12 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:13 - INFO - Req was made | / 
+1.1.2024, 13:03:13 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:34 - DEBUG - auth.service - login with username: dev 
+1.1.2024, 13:03:34 - INFO - User login:  | {"_id":"65929bbb1a92dca186f8cac3","username":"dev","fullname":"Dev dav","isAdmin":true,"score":0} 
+1.1.2024, 13:03:39 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:39 - INFO - Req was made | / 
+1.1.2024, 13:03:39 - INFO - Req was made | / 
+1.1.2024, 13:03:39 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:39 - INFO - Req was made | / 
+1.1.2024, 13:03:39 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:59 - INFO - Req was made | / 
+1.1.2024, 13:03:59 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:59 - INFO - Req was made | / 
+1.1.2024, 13:03:59 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:03:59 - INFO - Req was made | / 
+1.1.2024, 13:03:59 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:24:03 - INFO - server.js loaded... 
+1.1.2024, 13:24:03 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 13:25:13 - INFO - server.js loaded... 
+1.1.2024, 13:25:13 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 13:32:38 - INFO - Req was made | / 
+1.1.2024, 13:32:38 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:32:39 - INFO - Req was made | / 
+1.1.2024, 13:32:39 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:32:39 - INFO - Req was made | / 
+1.1.2024, 13:32:39 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:48:53 - INFO - Req was made | / 
+1.1.2024, 13:48:53 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:48:53 - INFO - Req was made | / 
+1.1.2024, 13:48:53 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:48:53 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:48:53 - INFO - Req was made | / 
+1.1.2024, 13:54:28 - INFO - Req was made | / 
+1.1.2024, 13:54:28 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:54:28 - INFO - Req was made | / 
+1.1.2024, 13:54:28 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:54:29 - INFO - Req was made | / 
+1.1.2024, 13:54:29 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:59:12 - INFO - Req was made | / 
+1.1.2024, 13:59:12 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:59:12 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:59:12 - INFO - Req was made | / 
+1.1.2024, 13:59:13 - INFO - Req was made | / 
+1.1.2024, 13:59:13 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:59:16 - INFO - Req was made | / 
+1.1.2024, 13:59:16 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:59:16 - INFO - Req was made | / 
+1.1.2024, 13:59:16 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:59:17 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:59:17 - INFO - Req was made | / 
+1.1.2024, 13:59:25 - INFO - Req was made | / 
+1.1.2024, 13:59:25 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:59:25 - INFO - Req was made | / 
+1.1.2024, 13:59:25 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 13:59:25 - INFO - Req was made | / 
+1.1.2024, 13:59:25 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:01:06 - INFO - Req was made | / 
+1.1.2024, 14:01:06 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:01:06 - INFO - Req was made | / 
+1.1.2024, 14:01:06 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:01:06 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:01:06 - INFO - Req was made | / 
+1.1.2024, 14:02:44 - INFO - Req was made | / 
+1.1.2024, 14:02:44 - DEBUG - Getting Toys | {"name":"","maxPrice":30,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:03:13 - INFO - Req was made | / 
+1.1.2024, 14:03:13 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:03:48 - INFO - Req was made | / 
+1.1.2024, 14:03:48 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:03:48 - INFO - Req was made | / 
+1.1.2024, 14:03:48 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:03:48 - INFO - Req was made | / 
+1.1.2024, 14:03:48 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:04:49 - INFO - Req was made | / 
+1.1.2024, 14:04:49 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:04:49 - INFO - Req was made | / 
+1.1.2024, 14:04:49 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:04:50 - INFO - Req was made | / 
+1.1.2024, 14:04:50 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:05:41 - INFO - Req was made | / 
+1.1.2024, 14:05:41 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:05:41 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:05:41 - INFO - Req was made | / 
+1.1.2024, 14:05:42 - INFO - Req was made | / 
+1.1.2024, 14:05:42 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:05:45 - DEBUG - Getting Toys | {"name":"","maxPrice":30,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:05:45 - INFO - Req was made | / 
+1.1.2024, 14:05:48 - INFO - Req was made | / 
+1.1.2024, 14:05:48 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:07:47 - INFO - Req was made | / 
+1.1.2024, 14:07:47 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:07:47 - INFO - Req was made | / 
+1.1.2024, 14:07:47 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:07:48 - INFO - Req was made | / 
+1.1.2024, 14:07:48 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
