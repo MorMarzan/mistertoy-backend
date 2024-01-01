@@ -30,7 +30,10 @@ async function query(filterBy = {}) {
                 }
             },
             {
-                $unwind: '$user'
+                $unwind: {
+                    path: '$user',
+                    preserveNullAndEmptyArrays: true
+                }
             },
             {
                 $lookup:
@@ -42,7 +45,10 @@ async function query(filterBy = {}) {
                 }
             },
             {
-                $unwind: '$toy'
+                $unwind: {
+                    path: '$toy',
+                    preserveNullAndEmptyArrays: true
+                }
             },
             {
                 $project: {
@@ -59,13 +65,6 @@ async function query(filterBy = {}) {
                 }
             }
         ]).toArray()
-        // reviews = reviews.map(review => {
-        //     review.byUser = { _id: review.byUser._id, fullname: review.byUser.fullname }
-        //     review.aboutUser = { _id: review.aboutUser._id, fullname: review.aboutUser.fullname }
-        //     delete review.byUserId
-        //     delete review.aboutUserId
-        //     return review
-        // })
 
         return reviews
     } catch (err) {
@@ -75,14 +74,12 @@ async function query(filterBy = {}) {
 
 }
 
-async function remove(reviewId) {
+async function remove(reviewId, loggedinUser) {
     try {
-        // const store = asyncLocalStorage.getStore()
-        // const { loggedinUser } = store
         const collection = await dbService.getCollection('review')
         // remove only if user is owner/admin
-        const criteria = { _id: ObjectId(reviewId) }
-        // if (!loggedinUser.isAdmin) criteria.byUserId = ObjectId(loggedinUser._id)
+        const criteria = { _id: new ObjectId(reviewId) }
+        if (!loggedinUser.isAdmin) criteria.userId = loggedinUser._id
         const { deletedCount } = await collection.deleteOne(criteria)
         return deletedCount
     } catch (err) {
@@ -94,14 +91,14 @@ async function remove(reviewId) {
 
 async function add(review) {
     try {
-        const reviewToAdd = {
-            byUserId: ObjectId(review.byUserId),
-            aboutUserId: ObjectId(review.aboutUserId),
-            txt: review.txt
-        }
+        // const reviewToAdd = {
+        //     userId: ObjectId(review.userId),
+        //     aboutUserId: ObjectId(review.aboutUserId),
+        //     txt: review.txt
+        // }
         const collection = await dbService.getCollection('review')
-        await collection.insertOne(reviewToAdd)
-        return reviewToAdd
+        await collection.insertOne(review)
+        return review
     } catch (err) {
         logger.error('cannot insert review', err)
         throw err
@@ -110,7 +107,7 @@ async function add(review) {
 
 function _buildCriteria(filterBy) {
     const criteria = {}
-    if (filterBy.byUserId) criteria.byUserId = filterBy.byUserId
+    if (filterBy.toyId) criteria.toyId = filterBy.toyId
     return criteria
 }
 
