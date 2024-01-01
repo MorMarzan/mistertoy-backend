@@ -849,3 +849,11 @@
 1.1.2024, 14:07:47 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
 1.1.2024, 14:07:48 - INFO - Req was made | / 
 1.1.2024, 14:07:48 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:17:12 - INFO - server.js loaded... 
+1.1.2024, 14:17:12 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.1.2024, 14:17:14 - INFO - Req was made | / 
+1.1.2024, 14:17:14 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:17:15 - INFO - Req was made | / 
+1.1.2024, 14:17:15 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
+1.1.2024, 14:17:15 - INFO - Req was made | / 
+1.1.2024, 14:17:15 - DEBUG - Getting Toys | {"name":"","maxPrice":null,"labels":[]} | {"type":"","dir":"1"} 
