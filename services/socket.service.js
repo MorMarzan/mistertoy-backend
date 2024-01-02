@@ -38,6 +38,11 @@ export function setupSocketAPI(server) {
             socket.join('watching:' + userId)
         })
 
+        socket.on('chat-set-typing', userName => {
+            logger.info(`chat-set-typing from socket [id: ${socket.id}], on topic ${socket.myTopic} user ${userName}`)
+            socket.broadcast.to(socket.myTopic).emit('chat-add-typing', userName)
+        })
+
         socket.on('set-user-socket', userId => {
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
             socket.userId = userId
