@@ -5,7 +5,6 @@ import mongodb from 'mongodb'
 const { ObjectId } = mongodb
 
 async function query(filterBy = {}) {
-    console.log('getting reviews service')
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('review')
